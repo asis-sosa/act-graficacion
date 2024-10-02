@@ -1,2 +1,2 @@
-# act-graficacion
-Actividades de clase de Graficacion 6
+# Actividades de Graficación
+Este repositorio está conformado por trabajos escolares para la asignatura de Graficación.
